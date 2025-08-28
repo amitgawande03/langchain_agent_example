@@ -1,0 +1,4 @@
+gpt-id:
+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
+
+c:/Agentic_AI_Program/chatbot-agentic/chatbot_env/Scripts/python.exe -m pip install ipykernel -U --force-reinstall
